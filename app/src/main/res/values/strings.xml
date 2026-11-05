@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ultron</string>
+
+    <!-- About -->
+    <string name="about_blurb">Ultron tumse baat karta hai, tumhara khayal rakhta hai — aur tumhara poora phone chala sakta hai. Powered by Gemini.</string>
+    <string name="about_tagline">Tumhara AI assistant, tumhare phone pe</string>
+    <string name="about_created_by">Banane wale: Ultron Labs</string>
+    <string name="about_powered_by">Powered by Gemini Live</string>
+    <string name="about_version">Ultron v%1$s</string>
+
+    <!-- Main chat -->
+    <string name="chat_hint">Ultron se baat karo…</string>
+    <string name="chat_mic">Mic</string>
+    <string name="chat_listening">Sun raha hoon…</string>
+    <string name="chat_thinking">Soch raha hoon…</string>
+    <string name="chat_speaking">Bol raha hoon…</string>
+    <string name="chat_settings">Settings</string>
+    <string name="chat_clear">Chat saaf karo</string>
+    <string name="chat_wake_off">\"Hey Ultron\" wake word band hai</string>
+    <string name="chat_session_expired">Session expire ho gaya. Dobara try karo.</string>
+    <string name="chat_greeting">Namaste! Main Ultron hoon. Tum kya chahte ho?</string>
+
+    <!-- Wake word -->
+    <string name="wake_word">Hey Ultron</string>
+
+    <!-- Settings hub -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_hub_ultron_sub">Persona, awaaz, bhasha</string>
+    <string name="settings_hub_ultron_title">Ultron</string>
+    <string name="settings_hub_personal_sub">Tumhara naam, music, Gemini aur YouTube keys</string>
+    <string name="settings_hub_personal_title">Personal</string>
+    <string name="settings_hub_messages_sub">Message alerts, WhatsApp auto-reply, calls</string>
+    <string name="settings_hub_messages_title">Messages aur WhatsApp</string>
+    <string name="settings_hub_connectors_sub">GitHub, Notion, Telegram aur bhi</string>
+    <string name="settings_hub_connectors_title">Connectors</string>
+    <string name="settings_hub_skills_sub">Installed playbooks aur online skill store</string>
+    <string name="settings_hub_skills_title">Skills</string>
+    <string name="settings_hub_advanced_sub">Behaviour, safety, permissions</string>
+    <string name="settings_hub_advanced_title">Advanced</string>
+    <string name="settings_hub_battery_sub">Ultron chalte waqt battery kam kharch ho</string>
+    <string name="settings_hub_battery_title">Battery saver</string>
+    <string name="settings_hub_backup_sub">Apni yaadein aur chats export aur restore karo</string>
+    <string name="settings_hub_backup_title">Backup</string>
+    <string name="settings_hub_secret_sub">Partner mode, Romantic, Intense (18+)</string>
+    <string name="settings_hub_secret_title">Secret settings</string>
+    <string name="settings_hub_optional_sub">Extra integrations — Maps / Places</string>
+    <string name="settings_hub_optional_title">Optional</string>
+    <string name="settings_hub_ui_sub">App ki bhasha aur theme</string>
+    <string name="settings_hub_ui_title">Interface</string>
+    <string name="settings_hub_privacy_sub">Privacy Policy aur data</string>
+    <string name="settings_hub_privacy_title">Privacy Policy</string>
+
+    <!-- Group labels -->
+    <string name="group_assistant">Assistant</string>
+    <string name="group_account">Account</string>
+    <string name="group_connected">Jude hue accounts</string>
+    <string name="group_memory">Yaadein aur data</string>
+    <string name="group_system">System</string>
+    <string name="group_work">Kaam aur messages</string>
+
+    <!-- Permissions -->
+    <string name="permissions_title">Permissions</string>
+    <string name="permissions_intro">Tumhare liye sab kuch karne ke liye Ultron ko ye permissions chahiye. Sirf wahi allow karo jo tum chahte ho.</string>
+    <string name="perm_mic_title">Microphone</string>
+    <string name="perm_mic_desc">Taaki tum Ultron se baat kar sako (zaroori).</string>
+    <string name="perm_notif_title">App notifications</string>
+    <string name="perm_notif_desc">Ultron ka notification, jisse session chalta rehta hai.</string>
+    <string name="perm_call_title">Phone calls</string>
+    <string name="perm_call_desc">Taaki Ultron tumhare liye call laga sake.</string>
+    <string name="perm_sms_title">SMS</string>
+    <string name="perm_sms_desc">Taaki Ultron text message bhej sake.</string>
+    <string name="perm_contacts_title">Contacts</string>
+    <string name="perm_contacts_desc">Taaki naam bolo to Ultron contact ka number dhoondh sake (call/SMS ke liye).</string>
+    <string name="perm_camera_title">Camera</string>
+    <string name="perm_camera_desc">Taaki Ultron tumhari photo le sake aur video record kar sake.</string>
+    <string name="perm_location_title">Location</string>
+    <string name="perm_location_desc">Taaki Ultron location, raasta aur mausam bata sake.</string>
+    <string name="perm_overlay_title">Dusre apps ke upar dikhna</string>
+    <string name="perm_overlay_desc">Taaki Ultron dusre apps ke upar kaam kar sake.</string>
+    <string name="perm_storage_title">Gallery aur files</string>
+    <string name="perm_storage_desc">Taaki Ultron photos/videos/files dhoondh ke kisi ko bhej sake.</string>
+    <string name="perm_battery_title">Battery — optimization nahi</string>
+    <string name="perm_battery_desc">Taaki screen band ho ya background me ho, Ultron chalti rehti hai.</string>
+    <string name="perm_grant">Allow karo</string>
+    <string name="perm_granted">Allowed</string>
+    <string name="perm_check">Check karo</string>
+    <string name="perm_fix">Theek karo</string>
+    <string name="perm_test">Test karo</string>
+
+    <!-- Common -->
+    <string name="back">Back</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="save">Save karo</string>
+    <string name="saved">Save ho gaya</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Theek hai</string>
+    <string name="open">Kholo</string>
+    <string name="retry">Dobara</string>
+    <string name="continue_label">Aage badho</string>
+    <string name="downloading">Download ho raha hai…</string>
+    <string name="locked">Locked</string>
+    <string name="unlocked">Unlocked</string>
+    <string name="chosen">Chuna hua</string>
+    <string name="show_hide">Dikhao/chhupao</string>
+    <string name="get">Lo</string>
+</resources>
